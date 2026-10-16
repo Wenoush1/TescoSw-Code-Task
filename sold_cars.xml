@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoldCars>
+  <Car>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SaleDate>2010-12-02T00:00:00</SaleDate>
+    <Price>500000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Felicia</ModelName>
+    <SaleDate>2000-12-03T00:00:00</SaleDate>
+    <Price>210000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Fabia</ModelName>
+    <SaleDate>2010-12-04T00:00:00</SaleDate>
+    <Price>350000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SaleDate>2010-12-04T00:00:00</SaleDate>
+    <Price>500000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SaleDate>2010-12-05T00:00:00</SaleDate>
+    <Price>500000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Fabia</ModelName>
+    <SaleDate>2010-12-05T00:00:00</SaleDate>
+    <Price>350000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Fabia</ModelName>
+    <SaleDate>2010-12-06T00:00:00</SaleDate>
+    <Price>350000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Forman</ModelName>
+    <SaleDate>2000-12-04T00:00:00</SaleDate>
+    <Price>100000</Price>
+    <VatRate>19</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Favorit</ModelName>
+    <SaleDate>2000-12-05T00:00:00</SaleDate>
+    <Price>80000</Price>
+    <VatRate>19</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Forman</ModelName>
+    <SaleDate>2000-12-06T00:00:00</SaleDate>
+    <Price>100000</Price>
+    <VatRate>19</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Felicia</ModelName>
+    <SaleDate>2000-12-03T00:00:00</SaleDate>
+    <Price>210000</Price>
+    <VatRate>19</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Felicia</ModelName>
+    <SaleDate>2000-12-02T00:00:00</SaleDate>
+    <Price>210000</Price>
+    <VatRate>19</VatRate>
+  </Car>
+  <Car>
+    <ModelName>Škoda Oktávia</ModelName>
+    <SaleDate>2010-12-07T00:00:00</SaleDate>
+    <Price>500000</Price>
+    <VatRate>20</VatRate>
+  </Car>
+</SoldCars>
