@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="TescoSw.Code.Task.Tests/TescoSw.Code.Task.Tests.csproj" Id="14e6e03c-6d6a-48c8-8023-a53e175514f9" />
   <Project Path="TescoSw.Code.Task/TescoSw.Code.Task.csproj" />
 </Solution>
