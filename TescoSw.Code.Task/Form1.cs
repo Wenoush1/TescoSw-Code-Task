@@ -44,7 +44,7 @@ public partial class Form1 : Form
 
         GetCarsColumn(nameof(Car.ModelName)).HeaderText = "Model name";
         GetCarsColumn(nameof(Car.SaleDate)).HeaderText = "Sale date";
-        GetCarsColumn(nameof(Car.SaleDate)).DefaultCellStyle.Format = "d";
+        GetCarsColumn(nameof(Car.SaleDate)).DefaultCellStyle.Format = "d.M.yyyy";
         GetCarsColumn(nameof(Car.Price)).DefaultCellStyle.Format = "N2";
         GetCarsColumn(nameof(Car.VatRate)).HeaderText = "VAT (%)";
     }
